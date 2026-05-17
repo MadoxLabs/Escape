@@ -1,0 +1,3 @@
+[submodule "mxFrame"]
+	path = mxFrame
+	url = ../mxFrame
